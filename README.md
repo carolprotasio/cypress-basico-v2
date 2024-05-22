@@ -1,6 +1,8 @@
 # Central de Atendimento ao Cliente TAT (CAC TAT)
 A aplicação Central de Atendimento ao Cliente TAT (CAC TAT) é um formulário que simula o envio de mensagens à uma central de atendimento ao cliente. Neste README, você encontrará informações sobre como configurar o projeto, executar os testes e detalhes sobre as funcionalidades da aplicação.
 
+![CAC-TAT- app](cypress/assets/cat-tat.png)
+
 # Configuração do Projeto
 1. Pré-requisitos:
 - Certifique-se de ter o Node.js instalado no seu sistema.
